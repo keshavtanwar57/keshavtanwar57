@@ -1,7 +1,7 @@
 ### Hola, I'm Keshav 👋
 
 - 🔭 I’m currently exploring Data Structures and Algorithms
-- 🌱 I’m currently learning MERN stack and DL
+- 🌱 I’m currently learning MERN stack.
 - 👯 I’m looking to collaborate on ML and Flutter Projects.
 - 💼 Actively Seeking internship opportunities
 - 💬 Ask me about Fluter or ML
@@ -33,7 +33,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=keshavtanwar57&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br>
 <br>
-<a href="https://github.com//github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavtanwar57&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com//github-readme-stats"><img alt="Keshav Tanwar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavtanwar57&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
