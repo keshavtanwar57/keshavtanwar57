@@ -1,10 +1,12 @@
-### Hola 👋 I am Keshav Tanwar
+### Hola, I'm Keshav 👋
 
-- 🔭 I’m currently working on Flutter Apps
-- 🌱 I’m currently learning MERN stack
+- 🔭 I’m currently exploring Data Structures and Algorithms
+- 🌱 I’m currently learning MERN stack and DL
 - 👯 I’m looking to collaborate on ML and Flutter Projects.
+- 💼 Actively Seeking internship opportunities
 - 💬 Ask me about Fluter or ML
 - ⚡ Fun fact: I like to draw
+
 
 <!--
 **keshavtanwar57/keshavtanwar57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
