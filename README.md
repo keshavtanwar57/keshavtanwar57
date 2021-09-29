@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning MERN stack.
 - 👯 I’m looking to collaborate on ML and Flutter Projects.
 - 💼 Actively Seeking internship opportunities
-- 💬 Ask me about Fluter or ML
+- 💬 Ask me about Flutter or ML
 - ⚡ Fun fact: I like to draw
 <br>
 <br>
