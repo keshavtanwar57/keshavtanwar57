@@ -7,9 +7,7 @@
 - 💬 Ask me about Flutter or ML
 - ⚡ Fun fact: I like to draw
 
-<!-- <img src="comp.gif" alt="coding gif"> -->
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_w51pcehl.json"  background="transparent"  speed="1"  style="width: 800px; height: 500px;"  loop  autoplay></lottie-player>
+<img src="comp.gif" alt="coding gif" background="transparent" style="width: 800px; height: 500px;">
 <br>
 <br>
 
