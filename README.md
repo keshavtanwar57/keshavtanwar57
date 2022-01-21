@@ -7,7 +7,7 @@
 - 💬 Ask me about Flutter or ML
 - ⚡ Fun fact: I like to draw
 
-<img src="comp.gif" alt="coding gif" background="transparent" style="width: 300px; height: 300px;">
+<img src="comp.gif" alt="coding gif">
 <br>
 <br>
 
