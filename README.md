@@ -1,4 +1,4 @@
-### Hola, I'm Keshav 👋
+# Hola, I'm Keshav 👋
 
 - 🔭 I’m currently exploring Data Structures and Algorithms
 - 🌱 I’m currently learning MERN stack.
@@ -6,7 +6,6 @@
 - 💼 Actively Seeking internship opportunities
 - 💬 Ask me about Flutter or ML
 - ⚡ Fun fact: I like to draw
-
 <img src="comp.gif" alt="coding gif">
 <br>
 <br>
