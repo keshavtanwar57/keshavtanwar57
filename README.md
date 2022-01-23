@@ -1,4 +1,4 @@
-# Hola, I'm Keshav 👋
+# Hola, I'm Keshav Tanwar 👋
 
 - 🔭 I’m currently exploring Data Structures and Algorithms
 - 🌱 I’m currently learning MERN stack.
