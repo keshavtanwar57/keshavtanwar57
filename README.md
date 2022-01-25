@@ -40,6 +40,12 @@
 <br>
 <a href="https://github.com/keshavtanwar57/github-readme-activity-graph"><img alt="Keshav Tanwar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=keshavtanwar57&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+## Connect with Me
+
+<a href = "https://www.linkedin.com/in/keshav-tanwar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.youtube.com/channel/UCxojTZpKUqMh7IW3K0I1Ihw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
 <!--
 **keshavtanwar57/keshavtanwar57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
