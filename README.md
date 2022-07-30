@@ -1,6 +1,6 @@
 # Hola, I'm Keshav Tanwar 👋
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td>
 <ul>
