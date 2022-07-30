@@ -1,15 +1,23 @@
 # Hola, I'm Keshav Tanwar 👋
 
 <table>
+<tr>
+<td>
+<ul>
+<li>🔭 I’m currently exploring Data Structures and Algorithms</li>
+<li>🌱 I’m currently learning MERN stack.</li>
+<li>👯 I’m looking to collaborate on ML and Flutter Projects.</li>
+<li>💼 Actively Seeking internship opportunities</li>
+<li>💬 Ask me about Flutter or ML</li>
+<li>⚡ Fun fact: I like to draw</li>
+</ul>
+</td>
+<td>
+<img src="comp.gif" alt="coding gif" width="400">
+</td>
+</tr>
 </table>
 
-- 🔭 I’m currently exploring Data Structures and Algorithms
-- 🌱 I’m currently learning MERN stack.
-- 👯 I’m looking to collaborate on ML and Flutter Projects.
-- 💼 Actively Seeking internship opportunities
-- 💬 Ask me about Flutter or ML
-- ⚡ Fun fact: I like to draw
-<img src="comp.gif" alt="coding gif" width="250">
 <br>
 <br>
 
