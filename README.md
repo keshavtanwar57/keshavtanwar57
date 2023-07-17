@@ -13,7 +13,7 @@
 </ul>
 </td>
 <td>
-<img src="comp.gif" alt="coding gif" width="400">
+<img src="./comp.gif" alt="coding gif" width="400">
 </td>
 </tr>
 </table>
